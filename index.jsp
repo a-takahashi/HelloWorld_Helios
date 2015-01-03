@@ -10,7 +10,6 @@
 <body>
  <s:a href="%{'/HelloWorld/Hello.action'}"> こんにちは </s:a>
  <br />
-<div>テストコメント</div>
  <s:url id="ha" value="/Hello.action" />
 　<s:a href="%{ha}"> こんにちは </s:a>
  <br />
